@@ -1,13 +1,10 @@
-###################
-SIMAK - Sistem Informasi Surat Masuk dan Keluar
-###################
+## SIMAK - Sistem Informasi Surat Masuk dan Keluar
 
-SIMAK merupakan aplikasi web CodeIgniter berdasarkan dari aplikasi ASAMURAT
+SIMAK merupakan aplikasi web CodeIgniter berdasarkan dari aplikasi [ASAMURAT]https://github.com/akhwan90/asamurat)
 untuk memenuhi projek PKL di Kemenag Kota Malang tahun 2016
 
-**************************
-Changelog
-**************************
+### Changelog
+
 1. Penghilangan login menggunakan tahun
 2. Upgrade CI 3.1.2
 3. Template menggunakan AdminLTE
@@ -16,9 +13,9 @@ Changelog
 4. Penambahan fungsi message_box pada MY_helper untuk menampilkan flashdata
 5. dan ubahan kecil lain.
 
-**************************
-Install
-**************************
+
+### Install
+
 1. Create database dengan nama simak pada phpmyadmin
 2. Import database simak.sql
 3. user:admin password:rahasia
