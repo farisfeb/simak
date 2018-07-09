@@ -1,6 +1,6 @@
 ## SIMAK - Sistem Informasi Surat Masuk dan Keluar
 
-SIMAK merupakan aplikasi web CodeIgniter berdasarkan dari aplikasi [ASAMURAT]https://github.com/akhwan90/asamurat)
+SIMAK merupakan aplikasi web CodeIgniter berdasarkan dari aplikasi [ASAMURAT](https://github.com/akhwan90/asamurat)
 untuk memenuhi projek PKL di Kemenag Kota Malang tahun 2016
 
 ### Changelog
