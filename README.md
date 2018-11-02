@@ -1,11 +1,11 @@
 # SIMAK - Sistem Informasi Surat Masuk dan Keluar
 
 ![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg)
-![Jekyll](https://img.shields.io/badge/Jekyll-Minima-blue.svg)
+![CodeIgniter](https://img.shields.io/badge/PHP-CodeIgniter-blue.svg)
 
 ## Deskripsi
 
-[SIMAK](https://github.com/farisfebrianto/simak) singkatan dari Sistem Informasi Surat Masuk dan Keluar merupakan aplikasi web CodeIgniter berdasarkan dari aplikasi [ASAMURAT](https://github.com/akhwan90/asamurat) untuk memenuhi projek PKL di Kemenag Kota Malang tahun 2016. Download full documentation at [here](https://github.com/farisfebrianto/simak/simak.pdf).
+[SIMAK](https://github.com/farisfebrianto/simak) singkatan dari Sistem Informasi Surat Masuk dan Keluar merupakan aplikasi web CodeIgniter berdasarkan dari aplikasi [ASAMURAT](https://github.com/akhwan90/asamurat) untuk memenuhi projek PKL di Kemenag Kota Malang tahun 2016. Download full documentation at [here](https://github.com/farisfebrianto/simak/raw/master/simak.pdf).
 
 ## Screenshot
 
